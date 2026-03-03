@@ -9,5 +9,5 @@ html {
  color: white;
 }
 hr {
-color: black;
+border-top: 1px solid black;
 }
