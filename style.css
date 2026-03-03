@@ -1,6 +1,7 @@
 main {
   text-align: center;
 }
-body {
+html {
  background-color: #179C73;
+ font-family: 'Atkinson Hyperlegible Mono', sans-serif;
 }
