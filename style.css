@@ -23,8 +23,8 @@ border-top: 1px solid black;
     cursor: pointer;       /* Changes the mouse cursor to a pointer */
 
 /* Appearance */
-    background-color: #007bff; /* Button background color */
-    color: gray;              /* Text color */
+    background-color: #3B3939; /* Button background color */
+    color: white;              /* Text color */
     border: 1px solid #0056b3; /* Border for definition */
     border-radius: 5px;        /* Rounded corners */
     font-size: 16px;           /* Text size */
