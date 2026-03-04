@@ -37,6 +37,6 @@ text-decoration: none;
 }
 
 button:hover {
-  padding: 13px 27px;
+  transform: scale(1.2);
   opacity: 1;
 }
