@@ -29,6 +29,7 @@ button {
     border-radius: 5px;        /* Rounded corners */
     font-size: 16px;           /* Text size */
     font-weight: bold;         /* Text thickness */
+    opacity: 0.75;
 }
 a {
 color: white;
@@ -37,4 +38,5 @@ text-decoration: none;
 
 button:hover {
   padding: 13px 27px;
+  opacity: 1;
 }
