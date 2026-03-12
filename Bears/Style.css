@@ -1,0 +1,42 @@
+main {
+  text-align: center;
+}
+
+html {
+ background-color: #325C59;
+ font-family: 'Atkinson Hyperlegible Mono', sans-serif;
+ font-optical-sizing: auto;
+ font-style: normal;
+ color: white;
+ font-size: 24px;
+}
+
+hr {
+border: 1px solid black;
+}
+
+a {
+    /* Display and layout */
+    display: inline-block; /* Allows setting padding, width, and height */
+    padding: 10px 20px;    /* Space between text and border */
+    text-align: center;    /* Center the text */
+    text-decoration: none; /* Removes the default underline for links */
+    cursor: pointer;       /* Changes the mouse cursor to a pointer */
+
+/* Appearance */
+    background-color: #3B3939; /* Button background color */
+    color: white;              /* Text color */
+    border: 1px solid #000000; /* Border for definition */
+    border-radius: 5px;        /* Rounded corners */
+    font-size: 16px;           /* Text size */
+    font-weight: bold;         /* Text thickness */
+    opacity: 0.75;
+    text-decoration: none;
+
+}
+
+
+button:hover {
+  transform: scale(1.2);
+  opacity: 1;
+}
